@@ -11,7 +11,7 @@
 1. Em seu terminal, acesse `.../PE/trab_graphs`
 2. Agora, basta executar as questões `python q1`, `python q2`, ..., `python q7`
 
-##Extra
+## Extra
 
 * Há imagens de todos os gráficos pré-renderizadas em `PE/trab_graphs/images` 
 * Os arquivos com os dados estão em: `PE/trab_graphs/data`
@@ -23,4 +23,4 @@
 * Scipy
 * Matplotlib
 
-#Author: André Ferreira Cavalcante Da Silva
+# Author: André Ferreira Cavalcante Da Silva
