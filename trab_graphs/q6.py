@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 #Questão 6
 data_set = pd.read_csv("data/chromosome_position_data.txt", sep="	")
 
-print(data_set.head(30))
 
 mut1 = data_set[["Position", "Mut1"]]
 mut2 = data_set[["Position", "Mut2"]]
